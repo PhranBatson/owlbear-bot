@@ -10,9 +10,9 @@
   "author": "Phran <777777thatsseven7s@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "discord": "^0.8.2",
-    "node": "^19.6.0",
     "@types/node": "^18.0.6",
+    "discord.js": "^14.7.1",
+    "node": "^19.6.0",
     "node-fetch": "^3.2.6"
   }
 }
